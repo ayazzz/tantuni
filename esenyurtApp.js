@@ -1,0 +1,1 @@
+var menuList={'kebaps':[{name:'',price:''},{name:'',price:''},{name:'',price:''},{name:'',price:''},{name:'',price:''}],'tantanas':[{name:'',price:''},{name:'',price:''},{name:'',price:''},{name:'',price:''},{name:'',price:''},{name:'',price:''},{name:'',price:''}]};
