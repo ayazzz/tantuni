@@ -2,27 +2,19 @@ var menus = {
     'kebaps': [
         {
             name: 'Adana Dürüm',
-            price: '6.0',
+            price: '7.0',
             p_name: 'Adana Dürüm Porsiyon',
-            p_price: '12.0',
+            p_price: '13.0',
             img: 'assets/img/sp11.jpg',
             order_no: 1
         },
         {
             name: 'Ciğer Dürüm',
-            price: '7.0',
+            price: '8.0',
             p_name: 'Ciğer Porsiyon',
-            p_price: '14.0',
+            p_price: '15.0',
             img: 'assets/img/sp12.jpg',
             order_no: 2
-        },
-        {
-            name: 'Kanat kg',
-            price: '22.0',
-            p_name: 'Kanat Porsiyon',
-            p_price: '12.0',
-            img: 'assets/img/sp13.jpg',
-            order_no: 3
         },
         {
             name: 'Y.Ekmek Köfte',
@@ -33,7 +25,7 @@ var menus = {
             order_no: 4
         },
         {
-            name: 'Kanat Şiş',
+            name: 'Kanat Porsiyon',
             price: '12.0',
             p_name: '',
             p_price: '',
@@ -42,23 +34,23 @@ var menus = {
         },
         {
             name: 'Çöp Şiş Dürüm',
-            price: '7.0',
+            price: '8.0',
             p_name: 'Çöp Şiş Porsiyon',
-            p_price: '14.0',
+            p_price: '16.0',
             img: 'assets/img/sp15.jpg',
             order_no: 6
         },
         {
             name: 'Tavuk Şiş Dürüm',
-            price: '5.0',
+            price: '6.0',
             p_name: 'Tavuk Şiş Porsiyon',
-            p_price: '10.0',
+            p_price: '12.0',
             img: 'assets/img/sp17.jpg',
             order_no: 7
         },
         {
             name: 'Karışık Kebap',
-            price: '24.0',
+            price: '26.0',
             p_name: '',
             p_price: '',
             img: 'assets/img/sp16.jpg',
@@ -68,7 +60,7 @@ var menus = {
     'tantanas': [
         {
             name: 'Tantuni Dürüm',
-            price: '6.0',
+            price: '7.0',
             p_name: '',
             p_price: '',
             img: 'assets/img/sp1.jpg',
@@ -76,7 +68,7 @@ var menus = {
         },
         {
             name: 'Tantuni Yarım',
-            price: '7.0',
+            price: '8.0',
             p_name: '',
             p_price: '',
             img: 'assets/img/sp2.jpg',
@@ -84,7 +76,7 @@ var menus = {
         },
         {
             name: 'Ayvalık Tostu',
-            price: '5.50',
+            price: '6.0',
             p_name: '',
             p_price: '',
             img: 'assets/img/sp3.jpg',
@@ -92,7 +84,7 @@ var menus = {
         },
         {
             name: 'Çorba',
-            price: '4.0',
+            price: '5.0',
             p_name: '',
             p_price: '',
             img: 'assets/img/sp4.jpg',
@@ -100,7 +92,7 @@ var menus = {
         },
         {
             name: 'Patates Cipsi',
-            price: '4.0',
+            price: '5.0',
             p_name: '',
             p_price: '',
             img: 'assets/img/sp5.jpg',
