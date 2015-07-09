@@ -1,4 +1,5 @@
 var menus = {
+    'lastUpdate':'10 Tem 2015',
     'kebaps': [
         {
             name: 'Adana Dürüm',
